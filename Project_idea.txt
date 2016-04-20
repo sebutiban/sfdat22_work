@@ -1,0 +1,10 @@
+Project 
+
+Estimate google stock price using the risdual income model 
+	-scrap comp financial statments #s from some API
+
+Estimate the requeried rate of return using the CAPM becuase its an input for the RI model 
+Finally use tweets/sentiment analysis to estimate net income 
+
+Use reg-EX to find analysts opinions and stock estimates to average it with mine 
+

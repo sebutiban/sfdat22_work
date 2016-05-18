@@ -1,10 +1,13 @@
 Project 
 
-Estimate google stock price using the risdual income model 
-	-scrap comp financial statments #s from some API
+For my project I will estimate Facebook stock price using a model called Risdual Income.It's a widley used model both in acedemia and in the the investment industry.
+There are many tools that we learned in class that are going to assist me with completing this research. I will be using the Captial Asset Pricing Model which uses regression analsysis to estimate the requered rate of return of for this stock.
+I will also be examining correlation patterns for the stock price compared to other peer competetors to see how would this investment fit in a portifilio heavily wiaghted on tech stocks. 
+I will also use the twittter sintiment analysis model that we learned in class to imporve my stock price estimation. 
+Finally, I will compare my estimation with other analyst opinions. 
 
-Estimate the requeried rate of return using the CAPM becuase its an input for the RI model 
-Finally use tweets/sentiment analysis to estimate net income 
 
-Use reg-EX to find analysts opinions and stock estimates to average it with mine 
+
+I will scrap most of my data from the yahoo finance. So, the yahoo finance module that we used in class will be very handy when I exracting Facebook's stock price.
+Yahoo finance will also be my resource for my accounting data.Using the twitter API and teqniques we learned in class I will scrape analysts opinions to do my sentiment analysis. 
 
